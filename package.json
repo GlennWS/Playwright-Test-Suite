@@ -1,0 +1,23 @@
+{
+  "name": "playwright-test-suite",
+  "version": "1.0.0",
+  "description": "This repository will house Playwright tests for various web pages.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlennWS/Playwright-Test-Suite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GlennWS/Playwright-Test-Suite/issues"
+  },
+  "homepage": "https://github.com/GlennWS/Playwright-Test-Suite#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
